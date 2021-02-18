@@ -6,11 +6,11 @@
         "schema": {
           "fields": [
             {
-              "name": "dates",
+              "name": "Dates",
               "type": "string"
             },
             {
-              "name": "prices",
+              "name": "Drices",
               "type": "number"
             }
           ]
